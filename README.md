@@ -1,8 +1,13 @@
-# My Personal Terminal Setup for Ubuntu/GNOME
+# My Personal Terminal and VS Code Setup for Ubuntu/GNOME
 
 This guide documents the steps to set up my preferred terminal environment on a fresh Debian-based system (like Ubuntu) with the GNOME Desktop Environment.
 
 <img width="920" height="604" alt="Screenshot from 2025-08-17 20-19-44" src="https://github.com/user-attachments/assets/366cf8c2-bd8a-40dc-ab0e-7fa63f8771f0" />
+
+Also, you can find my VS Code settings in the `settings.json` file.
+
+<img width="1364" height="737" alt="Screenshot from 2025-08-17 20-30-28" src="https://github.com/user-attachments/assets/e3539d49-735f-4979-a36e-2f535ee78bc4" />
+
 
 ## Installation Steps
 
